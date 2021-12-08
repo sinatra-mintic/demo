@@ -2,7 +2,6 @@
   "base datos": [
     { "id": 1, 
      "name": "Central Park",
-     "descripcion": "Recorre los senderos a pie o en bici, ",
      "ubicacion": "Distrito metropolitando de Manhattan",
      "temperatura": "-2°C a 29°C"
     },
