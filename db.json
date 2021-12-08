@@ -3,30 +3,35 @@
     {
       "id": 1,
       "name": "Central Park",
+      "description": "Recorre los senderos a pie o en bici, túmbate en el Sheep Meadow con un pícnic, rema por el lago, emociónate en la fuente de Bethesda.Las posibilidades son infinitas, pero algo está claro: una de las cosas que tienes que hacer es sí o sí perderte una o más veces",
       "ubicacion": "Distrito metropolitando de Manhattan",
       "temperatura": "-2°C a 29°C"	  
     },
     {
       "id": 2,
       "name": "Top of the rock",
+      "description": "2",
       "ubicacion": "Rockefeller Center",
       "temperatura": "-2°C a 29°C"  
     },
     {
       "id": 3,
       "name": "Ferry State Land",
+      "description": "3",
       "ubicacion": "Manhattan",
       "temperatura": "-2°C a 29°C"	  
     },
 	{
       "id": 4,
       "name": "High Line",
+      "description": "4",
       "ubicacion": "Nueva York, 10011, EE. UU.",
       "temperatura": "-2°C a 29°C"	  
     },
     {
       "id": 5,
       "name": "Vessel",
+      "description": "5",
       "ubicacion": "40°45′14″N 74°00′08″O",
       "temperatura": "-2°C a 29°C"	  
     }
