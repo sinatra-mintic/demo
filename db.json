@@ -1,6 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
+  "base datos": [
+    { "id": 1, 
+     "name": "Central Park",
+     "ubicacion": "Distrito metropolitando de Manhattan",
+     "temperatura": "-2°C a 29°C"
+    },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
