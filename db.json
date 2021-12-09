@@ -17,21 +17,21 @@
     {
       "id": 3,
       "name": "Ferry State Land",
-      "description": "3",
+      "description": "Si te sitúas junto al agua en el sur de Manhattan, tanto de día como de noche verás un reguero de barcos de color naranja que llegan y zarpan de la isla, es muy popular entre los turistas porque, durante el trayecto, se ven la Estatua de la Libertad (desde lejos; el ferry no desembarca en la isla) y la silueta de Manhattan",
       "ubicacion": "Manhattan",
       "temperatura": "-2°C a 29°C"	  
     },
 	{
       "id": 4,
       "name": "High Line",
-      "description": "4",
+      "description": "Es un parque lineal de 1,45 millas de largo (2,33 km) en el distrito de Manhattan en Nueva York. Este parque se encuentra en una sección elevada de la línea East Side Line de la extinta compañía de ferrocarriles New York Central Railroad.Inspirados por el Coulée verte René-Dumont de París, un proyecto similar de 4,7 kilómetros completado en 1993",
       "ubicacion": "Nueva York, 10011, EE. UU.",
       "temperatura": "-2°C a 29°C"	  
     },
     {
       "id": 5,
       "name": "Vessel",
-      "description": "5",
+      "description": "Es una estructura y punto de atracción construida como parte del Plan de Desarrollo de Hudson Yards en Manhattan, Nueva York, Estados Unidos. Fue construida de acuerdo al diseño del británico Thomas Heatherwick, la estructura que asemeja un complejo patrón de panel de abejas se eleva 16 pisos",
       "ubicacion": "40°45′14″N 74°00′08″O",
       "temperatura": "-2°C a 29°C"	  
     }
