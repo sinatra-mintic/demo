@@ -7,7 +7,6 @@
       "description2": "Recorre los senderos a pie o en bici, túmbate en el Sheep Meadow con un pícnic, rema por el lago, emociónate en la fuente de Bethesda.Las posibilidades son infinitas, pero algo está claro: una de las cosas que tienes que hacer es sí o sí perderte una o más veces",
       "ubicacion": "Distrito metropolitando de Manhattan",
       "temperatura": "-2°C a 29°C",
-      "imagenURL": "R.drawable.central_park2",
       "latitud": "40.782",
       "longitud": "-73.965"	    
     },
@@ -18,7 +17,6 @@
       "description2": "Es un mirador que se encuentra situado en el Rockefeller Center, y es mi observatorio favorito en altura de Nueva York, Sin apenas colas, debido principalmente a una buena organización, te ofrece las mejores vistas aéreas de Nueva York y Manhattan, sobre todo de toda la zona de Central Park y Midtown",
       "ubicacion": "Rockefeller Center",
       "temperatura": "-2°C a 29°C",  
-      "imagenURL": "R.drawable.top_rock2",
       "latitud": "40.759",
       "longitud": "-73.979"	    
     },
@@ -29,7 +27,6 @@
       "description2": "Si te sitúas junto al agua en el sur de Manhattan, tanto de día como de noche verás un reguero de barcos de color naranja que llegan y zarpan de la isla, es muy popular entre los turistas porque, durante el trayecto, se ven la Estatua de la Libertad (desde lejos; el ferry no desembarca en la isla) y la silueta de Manhattan",
       "ubicacion": "Manhattan",
       "temperatura": "-2°C a 29°C",
-      "imagenURL": "R.drawable.ferry_land2",
       "latitud": "40.562",
       "longitud": "-74.139" 	    
     },
@@ -40,7 +37,6 @@
       "description2": "Es un parque lineal de 1,45 millas de largo (2,33 km) en el distrito de Manhattan en Nueva York. Este parque se encuentra en una sección elevada de la línea East Side Line de la extinta compañía de ferrocarriles New York Central Railroad.Inspirados por el Coulée verte René-Dumont de París, un proyecto similar de 4,7 kilómetros completado en 1993",
       "ubicacion": "Nueva York, 10011, EE. UU.",
       "temperatura": "-2°C a 29°C",
-      "imagenURL": "R.drawable.high_line2",
       "latitud": "40.747",
       "longitud": "-74.004" 
 		
@@ -52,7 +48,6 @@
       "description2": "Es una estructura y punto de atracción construida como parte del Plan de Desarrollo de Hudson Yards en Manhattan, Nueva York, Estados Unidos. Fue construida de acuerdo al diseño del británico Thomas Heatherwick, la estructura que asemeja un complejo patrón de panel de abejas se eleva 16 pisos",
       "ubicacion": "40°45′14″N 74°00′08″O",
       "temperatura": "-2°C a 29°C",
-      "imagenURL": "R.drawable.vessel",
       "latitud": "40.753",
       "longitud": "-74.002"	    
     }
