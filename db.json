@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Central Park",
       "description1":"Senderos a pie",	    
       "description2": "Recorre los senderos a pie o en bici, túmbate en el Sheep Meadow con un pícnic, rema por el lago, emociónate en la fuente de Bethesda.Las posibilidades son infinitas, pero algo está claro: una de las cosas que tienes que hacer es sí o sí perderte una o más veces",
@@ -12,7 +12,7 @@
       "longitud": "-73.965"	    
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Top of the rock",
       "description1":"Panorámica de la gran manzana",	 	    
       "description2": "Es un mirador que se encuentra situado en el Rockefeller Center, y es mi observatorio favorito en altura de Nueva York, Sin apenas colas, debido principalmente a una buena organización, te ofrece las mejores vistas aéreas de Nueva York y Manhattan, sobre todo de toda la zona de Central Park y Midtown",
@@ -23,7 +23,7 @@
       "longitud": "-73.979"	    
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Ferry State Land",
       "description1":"Ferry gratuito",      
       "description2": "Si te sitúas junto al agua en el sur de Manhattan, tanto de día como de noche verás un reguero de barcos de color naranja que llegan y zarpan de la isla, es muy popular entre los turistas porque, durante el trayecto, se ven la Estatua de la Libertad (desde lejos; el ferry no desembarca en la isla) y la silueta de Manhattan",
@@ -34,7 +34,7 @@
       "longitud": "-74.139" 	    
     },
 	{
-      "id": 4,
+      "id": "4",
       "name": "High Line",
       "description1":"Parque elevado", 	
       "description2": "Es un parque lineal de 1,45 millas de largo (2,33 km) en el distrito de Manhattan en Nueva York. Este parque se encuentra en una sección elevada de la línea East Side Line de la extinta compañía de ferrocarriles New York Central Railroad.Inspirados por el Coulée verte René-Dumont de París, un proyecto similar de 4,7 kilómetros completado en 1993",
@@ -46,7 +46,7 @@
 		
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Vessel",
       "description1":"Zona de rascacielos y lujos",   	    
       "description2": "Es una estructura y punto de atracción construida como parte del Plan de Desarrollo de Hudson Yards en Manhattan, Nueva York, Estados Unidos. Fue construida de acuerdo al diseño del británico Thomas Heatherwick, la estructura que asemeja un complejo patrón de panel de abejas se eleva 16 pisos",
